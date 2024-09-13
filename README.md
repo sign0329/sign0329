@@ -1,8 +1,3 @@
-
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=Rounded&color=auto&height=350&section=header&text=Just%20Do%20It!!!&fontSize=90" />
-</div>
 <br>
 <!--뱃지 -->
 <h3 align="center">📚 Tech Stack 📚</h3>
